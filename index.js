@@ -1,1 +1,1 @@
-document.write('Hello Word!')
+document.write(' 今天天气不错!')
